@@ -4,13 +4,17 @@
 
 Este é o repositório de uma página simples da Vinheria Agnello criada com Phosphor-Icons, HTML, CSS e JavaScript e foi desenvolvida para fins educativos/acadêmicos.
 
-## Phosphor-Icons
+## Protótipo
 
-Phosphor-Icons é uma biblioteca de ícones open-source, disponível em [phosphoricons.com](https://phosphoricons.com/). Os ícones são criados com linhas finas, de alta qualidade e podem ser usados em projetos pessoais ou comerciais.
+Para acessar o protótipo do website, acesse o link do [Figma](https://www.figma.com/file/X3sWex2pdnP3qfBCXwE9Cu/FIAP-Front-End?node-id=62%3A534&t=G3NES7HQyoN3d8rY-1).
 
 ## HTML, CSS e JavaScript
 
 A página foi criada com HTML5, CSS3 e JavaScript. O HTML foi estruturado de forma semântica, utilizando as tags apropriadas para cada elemento. O CSS foi utilizado para estilizar a página, definindo fontes, cores, tamanhos e posicionamentos. O JavaScript foi usado para interatividade, como a exibição de uma mensagem de boas-vindas ao usuário.
+
+## Phosphor-Icons
+
+Phosphor-Icons é uma biblioteca de ícones open-source, disponível em [phosphoricons.com](https://phosphoricons.com/). Os ícones são criados com linhas finas, de alta qualidade e podem ser usados em projetos pessoais ou comerciais.
 
 ## Como usar
 
