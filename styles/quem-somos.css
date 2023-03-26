@@ -41,8 +41,23 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+  row-gap: 32px;
   align-items: center;
   color: var(--white);
+}
+
+.hero-description .push-button {
+  height: 86px;
+  width: 86px;
+
+  background: #a40e4c80;
+
+  border-radius: 0.25rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .hero-description > h1 {
