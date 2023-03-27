@@ -108,4 +108,6 @@ main {
   background: var(--brand500);
   color: var(--white);
   font-weight: 700;
+  display: flex;
+  gap: 4px;
 }
